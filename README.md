@@ -65,8 +65,7 @@ What role does hypervisor play in virtualization?
     
     What is an interpreted language vs. a compiled language?
     
-    The difference is compiled language that is put through a complier produces a program written in asssembly language while an
-    interpreter produces a result from a program
+    The difference is compiled language that is put through a complier produces a program written in asssembly language while               interpreted language has an interpreter produces a result from a program. 
 
     
     
