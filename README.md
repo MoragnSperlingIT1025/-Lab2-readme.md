@@ -56,6 +56,21 @@ What role does hypervisor play in virtualization?
     Hypervisors separate the physical resources from the virtual 
     environments—the things that need those resources. Hypervisors can sit on top of an operating system (like on a laptop) or be           installed directly onto hardware (like a server), which is how most enterprises virtualize. Hypervisors take your physical resources     and divide them up so that virtual environments can use them.
     
+# Python
+
+    What is meant by the "pseudo-code nature of Python?"
+    
+    Python is a simple computing language. Reading Python code is like reading english, and this pseudo-code is one of the good 
+    things about the Python language. 
+    
+    What is an interpreted language vs. a compiled language?
+    
+    The difference is compiled language that is put through a complier produces a program written in asssembly language while an
+    interpreter produces a result from a program
+
+    
+    
+    
         
 
 
