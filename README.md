@@ -2,6 +2,9 @@
 
 # Executive Summary
 
+    The objectives of this unit is to explain data representation and practice of converting decimal binary and hexadecimal,
+    define software types and pratice working and virtualization and Python and explore careers in IT. 
+
 
 # Data Representation
 
@@ -66,12 +69,44 @@ What role does hypervisor play in virtualization?
     What is an interpreted language vs. a compiled language?
     
     The difference is compiled language that is put through a complier produces a program written in asssembly language while               interpreted language has an interpreter produces a result from a program. 
+    
+# Career Exploration 
+    I registered for this account and it is a resource for Tri-C students to find jobs and interships. I also look up my career of 
+    interest of data analytics under the BLS and found out that this field is highly lucrative and fast growing
+   
+## Certifications 
+     
+     CompTia- is an entry level certification this is an certification used to show troubleshooting and problem-solving with computers.
+     Technicians understand a wide variety of issues ranging from networking and operating systems to mobile devices and security.
+     
+     Cisco- The CCENT certification validates the skills required for entry-level network support positions, the starting point for many      successful careers in networking.
+     
+     CISSP-This certification is used for cyber security and has one the specializes in healthcare.
+     
+     Data Anlytics would be the certificate of most interest to me. I am working towrds this certification now and I should be done by        the end of the year. 
+   
+## Co-ops / Internships
+    
+    Currently enrolled at Cuyahoga Community College
+    Completed 12 credit hours of college coursework (includes transfer credits) with at least two courses related to your major field
+    GPA of 2.75 or higher
+    
+    Benefits- Up to three credits per semester
+            - Hand-on learning
+            - Real life job opportunties 
+            - Compensation
+            
+## Industry Associations / Student Organizations
+
+
+    CCDC stands for Collegiate Cyber Defense competition this organization is designed to build a meaningful mechanism 
+    by which institutions of higher education may evaluate. Provide an educational venue in which students are able to apply theory
+    and practical skils they have learned in their course work, and many more. 
+
 
     
-    
-    
-        
-
-
-
 # Conclusion
+
+    This unit has very valuable information for a future IT professional that is trying to build their fundamental foundation of             knowlodge. In this unit I learned how to convert to binary to decimal from decimal to binary. I learned about virtualization 
+    and its uses. I also learned about the many opportunties in IT throught our College Central site. 
+    
